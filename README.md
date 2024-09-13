@@ -2,12 +2,12 @@
 
 This project involves classifying images from the Fashion MNIST dataset using a CNN implemented in both Python and R.
 
-## Python Instructions:
+## Python Instructions: (More instructions and interpretations in the notebook)
 1. Install dependencies: `tensorflow`, `keras`, `numpy`, `matplotlib`
 2. Run the `cnn_fashion_mnist.py` file.
 3. The model will be trained, and predictions will be shown for two images.
 
-## R Instructions:
+## R Instructions: (More instructions and interpretations in the notebook)
 1. Install dependencies:  `tensorflow`, `keras`, `reticulate`
 2. Run the `cnn_fashion_mnist.R` file.
 3. The model will be trained, and predictions will be shown for two images.
